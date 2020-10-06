@@ -7,6 +7,7 @@ Main menu:
 ![Mainmenu](https://github.com/ludwigcarlsson/filehandler/blob/main/img/filehandlerMainmenu.PNG?raw=true)
 
 Sub menu: 
+
 ![Submenu](https://github.com/ludwigcarlsson/filehandler/blob/main/img/filehandlerSubmenu.PNG?raw=true)
 
 1. Compiling the project: execute following command from root:

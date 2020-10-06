@@ -2,7 +2,8 @@
 ### Hello and welcome to the simplest of filehandlers!
 In this program you can do some basic file-exploring such as listing all files, listing files with a specific extension or get some information about a specific file.
 
-Main menu: 
+Main menu:
+
 ![Mainmenu](https://github.com/ludwigcarlsson/filehandler/blob/main/img/filehandlerMainmenu.PNG?raw=true)
 
 Sub menu: 

@@ -19,7 +19,7 @@ Sub menu:
 Remember that every change requires the project to be compiled for the changes to take effect!
 
 3. Creating a jar-file of the project: execute the following command from /out
-    >_jar cfe Filehandler.jar Program main/java/*.class main/java/filehandling/*.class_
+    >_jar cfe Filehandler.jar main/java/Program main/java/*.class main/java/filehandling/*.class_
 
 4. Running the jar-file: 
    > _java -jar Program.jar_
